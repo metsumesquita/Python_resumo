@@ -1,11 +1,33 @@
-# Python_resumo
+# Resumo de Python
 
-Olá,estou fazendo esse projeto com o intuito de ajudar outras pessoas que estao começando seus estudos em Python 
-vou separar meus estudos feitos anteriormente separando em modulos como : variaveis,Strings ,operaçoes matematicas ,operaçoes logicas,operaçoes relacionais , entrada de dados,as estruturas de repetiçao ,listas, funçoes , dicionários, matrizes, condicional e outros.
-quando eu puder eu devo trazer mais coisas e talvez algo que seja mais pra o intermediario .
-alem disso eu  vou colocar os links que foram usados durante a pesquisa e tambem devo colocar o nome dos cursos e dos professores,portanto devo colocar links de blogs e do youtube e espero que todos possam fazer proveito desse projeto que estou fazendo .
-devo mander ele atualizando em tempos em tempos quando me senti confortavel e confiante com meu aprendizado devo trazer outros assuntos como oop pra python e tambem a parte de algoritmos 
-alem disso espero fazer o jogo da cobrinha e algum jogo de atari que sao projetos que acredito que se encaixam no iniciante .
-posteiormente posso trazer algo de data sciente e por enquanto é isso 
+Olá!
 
-bons estudos e continuem pesquisando e estudando ;)
+Estou desenvolvendo este projeto com o objetivo de ajudar pessoas que estão começando a estudar Python. A ideia é organizar e compartilhar o conhecimento que adquiri, dividindo-o em módulos e tópicos que considero essenciais. 
+
+## Módulos de Estudo
+
+Vou separar o conteúdo em vários módulos, incluindo:
+
+- **Variáveis,Strings,entrada de dados**
+- **Operações Matemáticas,operações Lógicas,operações Relacionais e condicionais**
+- **Listas**
+- **POO**
+- **Vetor,tuplas e matrizes**
+- **Outros tópicos no momento faltantes**
+
+## Recursos e Recomendações
+
+Durante minha jornada de aprendizado, utilizei uma variedade de recursos que foram extremamente úteis,nos arquivos pode ser visualizado , os que estão ainda sem nada vão ser atualizados
+
+## Futuras Atualizações
+
+Planejo atualizar este projeto regularmente, conforme me sinto mais confortável e confiante com o meu aprendizado. Pretendo adicionar novos tópicos, como Programação Orientada a Objetos (OOP) em Python e algoritmos. Além disso, estou pensando em implementar projetos práticos, como o jogo da cobrinha e alguns jogos de Atari, que considero adequados para iniciantes.
+
+A longo prazo, também pretendo explorar tópicos de ciência de dados.
+
+## Conclusão
+
+Espero que este projeto seja útil para você em seus estudos. Continue pesquisando e aprendendo!
+
+Bons estudos e boa sorte! 😉
+
