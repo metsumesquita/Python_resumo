@@ -1,8 +1,3 @@
-<!-- Banner (opcional) -->
-<p align="center">
-  <img src="https://i.imgur.com/x6yqHgh.png" alt="Python Banner" width="70%">
-</p>
-
 <h1 align="center">🐍 Resumo de Python</h1>
 
 <p align="center">
